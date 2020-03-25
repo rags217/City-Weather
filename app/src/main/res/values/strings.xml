@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">City Weather</string>
+    <string name="na">N/A</string>
+    <string name="sunny">Sunny</string>
+    <string name="rainy">Rainy</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="windy">Windy</string>
+    <string name="error_toast">Unable to download the current weather.</string>
+</resources>
