@@ -9,8 +9,8 @@ Simple demo application that showcases synchronising weather information from se
       <td>City Weather View Failure</td>
   </tr>
   <tr>
-    <td><img src="screenshots/city_weather_success.png" width=230 height=480></td>
-    <td><img src="screenshots/city_weather_failure.png" width=230 height=480></td>
+    <td><img src="Screenshots/city_weather_success.png" width=230 height=480></td>
+    <td><img src="Screenshots/city_weather_failure.png" width=230 height=480></td>
   </tr>
  </table>
  
